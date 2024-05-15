@@ -15,7 +15,7 @@
           <div class="card mb-3">
             <div class="card-body">
               <nuxt-link :to="`/buku/${book.id}`">
-              <img :src="book.cover" alt="" width="200" height="250"> <h6>{{ book.judul }}</h6>
+              <img :src="book.cover" alt="" width="170" height="230"> <h6>{{ book.judul }}</h6>
               </nuxt-link>
               
             </div>
