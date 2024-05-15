@@ -2,7 +2,7 @@
   <nav class="navbar bg-primary text-white">
     <div class="container-fluid">
       <a class="navbar-brand" href="#">
-        <img src="/assets/img/LOGO.webp" alt="bootstrap" width="80" height="80">
+        <img src="/assets/img/LOGO.webp" alt="bootstrap" width="80px" >
       </a>
       <div class="title me-auto">
         <h3 class="m-0">Perpus Digital</h3>
